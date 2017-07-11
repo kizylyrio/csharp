@@ -1,0 +1,5 @@
+C:\Users\Kizy\Documents\github\csharp\Thot\Template\bin\Debug\Template.dll
+C:\Users\Kizy\Documents\github\csharp\Thot\Template\bin\Debug\Template.pdb
+C:\Users\Kizy\Documents\github\csharp\Thot\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\Kizy\Documents\github\csharp\Thot\Template\obj\Debug\Template.dll
+C:\Users\Kizy\Documents\github\csharp\Thot\Template\obj\Debug\Template.pdb

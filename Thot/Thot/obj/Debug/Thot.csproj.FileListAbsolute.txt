@@ -88,3 +88,5 @@ C:\Users\Kizy\Documents\github\csharp\Thot\Thot\bin\System.Web.Http.Owin.xml
 C:\Users\Kizy\Documents\github\csharp\Thot\Thot\obj\Debug\Thot.csprojResolveAssemblyReference.cache
 C:\Users\Kizy\Documents\github\csharp\Thot\Thot\obj\Debug\Thot.dll
 C:\Users\Kizy\Documents\github\csharp\Thot\Thot\obj\Debug\Thot.pdb
+C:\Users\Kizy\Documents\github\csharp\Thot\Thot\bin\Template.dll
+C:\Users\Kizy\Documents\github\csharp\Thot\Thot\bin\Template.pdb
